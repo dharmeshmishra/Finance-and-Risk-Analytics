@@ -9,6 +9,7 @@ After the selection of stocks, the portfolio must be validated using the active 
 
 # Data Description
 You are provided with the following information for 24 stocks of leading companies listed in New York Stock Exchange(NYSE):
+
 Date
 Open price: Price of stock at the start of the day
 
